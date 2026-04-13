@@ -1,4 +1,4 @@
-# .github
+![InfoSol logo](Logos/InfoSol-WordPress-1200x628.jpg)
 # InfoSol, Inc. | Seeing Beyond
 
 **InfoSol** is a consulting and software company focused on **enterprise analytics**, helping organizations design, support, and modernize platforms built on **SAP BusinessObjects**, **Tableau**, and **Microsoft Power BI**.
